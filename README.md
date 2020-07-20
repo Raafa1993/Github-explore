@@ -25,11 +25,11 @@ Localize e salve localmente usando LocalStorage seus repositórios favoritos com
 
 
 <p align="center">
-  <img src = "src/assets/gitExplore.png" width=700>
+  <img src = "src/assets/gitExplore.JPG" width=700>
 </p>
 
 <p align="center">
-  <img src = "src/assets/gitExplore1.png" width=700>
+  <img src = "src/assets/gitExplore1.JPG" width=700>
 </p>
 
 <br>
